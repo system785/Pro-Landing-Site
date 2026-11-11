@@ -1,16 +1,16 @@
 # robots.txt для сайта «Создание сайтов для бизнеса»
-# Сайт: https://system785.github.io/Landing-Site/
-# Репозиторий проекта: https://github.com/system785/Landing-Site
+# Сайт: https://system785.github.io/Pro-Landing-Site/
+# Репозиторий проекта: https://github.com/system785/Pro-Landing-Site
 
 User-agent: *
 Allow: /
 Disallow: /cgi-bin/
 
 # Хост для Яндекса (мобильная версия)
-Host: https://system785.github.io/Landing-Site/
+Host: https://system785.github.io/Pro-Landing-Site/
 
 # Карта сайта
-Sitemap: https://system785.github.io/Landing-Site/sitemap.xml
+Sitemap: https://system785.github.io/Pro-Landing-Site/sitemap.xml
 
 # ---------------------------------------------------------------
 # Плохим ботам вход закрыт
